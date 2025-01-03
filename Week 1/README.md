@@ -1,7 +1,7 @@
-# Week 1 Introduction to ER Diagrams/Models 
+# Week 1 - Introduction to ER Diagrams/Models 
 Welcome to the Week 1 of Foundations of SQL Course Repository! This week will focus on concepts of database and building an ER diagram from business requirements.
 
-## Using online resources for building ER Model
+## Using online resources for building ER Model and Diagram
 To practice building an ER Model, you can either use any online compiler you like or use the link https://erdplus.com/ to build ER Models in class. To build ER diagrams you can use the link https://drawsql.app/diagrams in the class. You could also prefer to use a pen and paper to build the diagrams as they can be easily manipulated in the way you like.
 
 ## Presentation for Week 1
