@@ -37,17 +37,21 @@
 -- 13 Find all the movies with id more than 6, directed by Dan Scanlon and duration being more than 95 minutes.
 
 
--- 14 View all the movies released after year 2006 but in reverse alphabetical order.
+-- 14 Find the release years where more than 1 movie was released
 
 
--- 15 Find all the employees and the department name they work for 
+-- 15 Find all movies with a sequel 
 
 
--- 16 Count the number of employees working in each department with the department name 
+-- 16 Find all the employees and the department name they work for 
 
 
--- 17 Count the number of projects each employee is working on 
+-- 17 Count the number of employees working in each department with the department name 
 
 
--- 18 Sum the total number of hours a department has worked on project for, also display the sum column as "total hours"
+-- 18 Count the number of projects each employee is working on 
+
+
+-- 19 Sum the total number of hours a department has worked on project for, also display the sum column as "total hours"
+
 
