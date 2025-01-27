@@ -13,6 +13,13 @@ To upload a new file, click on the profile button on top right, and click on "op
 ## Presentation for Week 4
 All the content that will be covered in the second class is present in the pdf of slides, located in the same directory (Week_4)
 
+## Summary
+- Subqueries are nested queries, used to get values from other tables and compare with our table.
+- Columns datatypes should match.
+- Subqueries could be used even if you don’t have foreign keys in another table.
+- Used with clauses like WHERE, FROM and HAVING
+
+
 
 
 
